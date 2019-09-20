@@ -1,0 +1,37 @@
+{
+  "name": "UI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@okta/okta-react": "^1.2.3",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-react-transform": "^3.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-runtime": "^6.26.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-stormpath": "^4.0.0-rc4",
+    "history": "^4.10.1",
+    "react": "^16.9.0",
+    "react-document-title": "^2.0.3",
+    "react-dom": "^16.9.0",
+    "react-router": "^5.0.1",
+    "react-stormpath": "^2.0.1",
+    "webpack": "^4.40.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "webpack-dev-middleware": "^3.7.1"
+  }
+}
